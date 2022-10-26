@@ -1,5 +1,5 @@
 header
 
-hello world!
+hello world and JAVA!
 
 update text. END.
